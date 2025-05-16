@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/ComparateurEgalitExact.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/ComparateurDeNom.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/ComparateurJarowinkler.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/PretraitementEnleverBenIbn.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/PretraitementNormalisation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/PretraitementSoundex.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Selectionneur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/SelectionneurTopScore.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/SelectionneurTous.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Pretraitement.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Couple.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Generateur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Groupe.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Nom.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/ComparateurDeChaine.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/GenerateurDeCandidat.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Index.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/GenerateurLongueurEgale.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/ComparateurLevenshtein.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/IndexDictionnaire.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/IndexTri.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/PraitraitementEnleverElAl.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/DataImporter.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/LocalCSVDataImporter.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Configuration.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Deduplicateur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/MoteurDeRecherche.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/GenerateurPrefixe.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/Main.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/GroupeDeResultat.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/NamedEntity.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/JAVA_PROJECT/src/java_project/IndexArbre.java</file>
+        </group>
+    </open-files>
+</project-private>
